@@ -1,1 +1,1 @@
-include ':app', ':library', ':sample', ':fab', ':fab-transformation'
+include ':app'

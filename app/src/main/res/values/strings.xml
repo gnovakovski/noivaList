@@ -1,11 +1,4 @@
 <resources>
     <string name="app_name">NoivaList</string>
     <string name="action_settings">Settings</string>
-    <string name="txtInicial">Bem vindo ao NoivaList!</string>
-    <string name="btnStart">Entrar</string>
-    <string name="inputNome">Nome</string>
-    <string name="title_activity_main2">Main2Activity</string>
-    <string name="title_activity_menu">MenuActivity</string>
-    <string name="title_activity_tst">TstActivity</string>
-    <string name="digitenome">Digite o seu nome!</string>
 </resources>
